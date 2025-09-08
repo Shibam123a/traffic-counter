@@ -1,0 +1,25 @@
+# opencv-python
+# numpy
+# torch
+# torchvision
+# ultralytics
+# filterpy
+# pandas
+# matplotlib
+# yt-dlp
+# tqdm
+# pytube
+torch
+torchvision
+torchaudio
+opencv-python-headless
+numpy
+pandas
+matplotlib
+pytube
+filterpy
+lap
+yolov5
+seaborn
+requests
+tqdm
