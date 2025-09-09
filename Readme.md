@@ -23,4 +23,17 @@ This repository contains a Python script to detect, track, and count vehicles ac
 Install dependencies with pip:
 
 ```bash
-pip install torch torchvision opencv-python pytube tqdm pandas filterpy scipy
+pip install torch torchvision torchaudio opencv-python-headless numpy pandas matplotlib pytube filterpy lap yolov5 seaborn requests tqdm
+
+## 🚀 How to Run
+
+1. Clone the repository  
+   git clone https://github.com/Shibam123a/traffic-counter.git
+   cd traffic-counter
+2. Run the package installer
+
+Double-click package.bat
+
+3. Run the setup script
+
+Double-click setup.bat
