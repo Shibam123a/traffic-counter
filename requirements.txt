@@ -1,14 +1,3 @@
-# opencv-python
-# numpy
-# torch
-# torchvision
-# ultralytics
-# filterpy
-# pandas
-# matplotlib
-# yt-dlp
-# tqdm
-# pytube
 torch
 torchvision
 torchaudio
